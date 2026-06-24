@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=omkaar08&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/omkaar08)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=omkaar08)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omkaar08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn]([https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/omkar-mahajan](https://www.linkedin.com/in/omkar-mahajan-60b4bb256/))
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/YOUR_ACTUAL_LINKEDIN_URL)
 
 ---
 
