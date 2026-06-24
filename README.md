@@ -4,7 +4,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=omkaar08&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/omkaar08)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omkaar08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+<p align="left">
+  <a href="https://github-profile-trophy.vercel.app/?username=omkaar08&theme=onedark&no-frame=true&row=1&column=6">
+    <img src="https://github-profile-trophy.vercel.app/?username=omkaar08&theme=onedark&no-frame=true&row=1&column=6" alt="omkaar08 trophies" />
+  </a>
+</p>
 
 ---
 
@@ -17,7 +23,9 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/YOUR_ACTUAL_LINKEDIN_URL)
+<a href="https://linkedin.com/in/omkar-mahajan" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
 ---
 
@@ -48,6 +56,6 @@
 
 ### 📊 GitHub Stats:
 
-![omkaar08's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkaar08&show_icons=true&locale=en)
+![omkaar08's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkaar08&show_icons=true&locale=en&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omkaar08&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omkaar08&show_icons=true&locale=en&layout=compact&theme=dark)
