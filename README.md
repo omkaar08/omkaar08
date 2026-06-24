@@ -17,6 +17,7 @@
 - 🔭 I'm currently working on **AI/ML projects**
 - 🌱 I'm currently learning **Machine Learning, Deep Learning & MLOps**
 - 💬 Ask me about **Python, Flask, Machine Learning, Android & Web Development**
+- 📫 Reach me at **omkarmahajan339@gmail.com**
 - ⚡ Fun fact: **EAT-SLEEP-CODE-REPEAT**
 
 ---
@@ -25,6 +26,9 @@
 
 <a href="https://linkedin.com/in/omkar-mahajan" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:omkarmahajan339@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
 </a>
 
 ---
