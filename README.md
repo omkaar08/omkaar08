@@ -6,11 +6,7 @@
 
 ---
 
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=omkaar08&theme=onedark&no-frame=true&row=1&column=6">
-    <img src="https://github-profile-trophy.vercel.app/?username=omkaar08&theme=onedark&no-frame=true&row=1&column=6" alt="omkaar08 trophies" />
-  </a>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=omkaar08&theme=onedark&no-frame=true&row=1&column=6)
 
 ---
 
@@ -25,10 +21,10 @@
 ### 🔗 Connect with me:
 
 <a href="https://linkedin.com/in/omkar-mahajan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:omkarmahajan339@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 ---
